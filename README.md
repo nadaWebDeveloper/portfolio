@@ -13,6 +13,17 @@
  React.JS 
  TypeScript
  Node.JS
+ EmailJS SDK
+ fortawesome/free-brands-svg-icons
+fortawesome/free-solid-svg-icons
+fortawesome/react-fontawesome
+ animate-scss
+ GSAP (GreenSock Animation Platform) with Trial
+ loaders.css
+ react-leaflet
+ react-loaders
+react-router-dom
+sass
 
 # Overview
 <!-- TODO: Add a screenshot of the live project.
